@@ -7,7 +7,8 @@ This game is a good pastime. A lot of people play this game in their free time..
 
 There are a lot of applications from the playstore that offer the 2048 game. Each application comes with its own variation of the game. Some make the space bigger, the classic game comes with a 4x4 box, while other versions go with 5x5 or 8x8 boxes. Others make the game a lot different by making it circular and some lets you play with multiple boxes. You can browse the internet for different versions of 2048 in order to find the game of your choice.
 
-**How to play this game ?**
+# **How to play this game ?**
+
 - the main keys to play are up, down, left and right keys.
 - whenever any one of these four arrow keys are pressed , the board adds any identical numbers available to give a greater number.
 - once a block of 2048 is achieved, user wins the game
@@ -15,6 +16,7 @@ There are a lot of applications from the playstore that offer the 2048 game. Eac
 - reloading the web page resets the game to its initial start state
 
 **Playing 2048**
+
 Here are some tips on how to play 2048 to achieve a higher score:
 - Start by pushing the tiles to one corner of the square. Placing tiles together in one corner gives you a higher chance to move tiles with the same number closer together. You can use one of the four corners of the box, top left, top right, bottom left, and bottom right. The square at the edge of the corner you chose should contain the highest number so it won’t get in your way while you combine other tiles.
 - Never place tiles with high numbers in the center of the box. Doing so will make it harder for you to combine other tiles because your tile with a higher number on it will block other tiles with lower numbers that are appearing.
